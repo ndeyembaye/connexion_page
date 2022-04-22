@@ -1,0 +1,17 @@
+body{
+    background-color: #A52A2A;
+}
+.formulaire{
+    display: block;
+    border: solid 1px #FFFFFF;
+    padding-top: 10%;
+    padding: 40px 40px;
+    border-radius: 10px;
+    width: 20%;
+}
+.log:hover{
+    color:#95911B ;
+}
+.mdp:hover{
+    color: #95911B;
+}
